@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etApellido">Apellido</string>
+    <string name="etEmail">Correo</string>
+    <string name="etPassword">Contraseña</string>
+    <string name="etTerminos">He leído y acepto los terminos y condiciones</string>
+    <string name="btn_enviar">Registrar</string>
+    <string name="btn_sesion">Inicia Sesión</string>
+</resources>
